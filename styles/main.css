@@ -1,0 +1,43 @@
+h1 {
+	color: #FD7400;
+	font-size: 50px;
+	text-align: right;
+}
+
+body {
+	background-color: #1f8a70;
+	background-image: url("https://www.transparenttextures.com/patterns/crisp-paper-ruffles.png");
+	font-family: 'Bitter', serif;
+}
+
+#movieA {
+	padding: 20px;
+	color: #004358;
+}
+
+#movie1 {
+	padding: 20px;
+	color: #004358;
+}
+
+fieldset {
+	text-align: center;
+}
+
+.judgy-wudgy {
+	text-align: right;
+	color: #BEDB39;
+}
+
+input[type=submit] {
+	border: 2px solid #9BB22E;
+	color: #FD7400;
+	background: #BEDB39;
+	padding: 10px 20px;
+	border-radius: 5px;
+	font-family: 'Bitter', serif;
+}
+
+input[type=submit]:hover {
+	background: #FFE11A;
+}
